@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 -->
 
-🌱 I’m currently learning: Deepening my JavaScript skills and learning React.
+🌱 I’m currently learning:TypeScript and React.
 
 👯 I’m looking to collaborate on: Web development projects, especially those using JavaScript, Tailwind CSS, SASS ,CSS3 Html5.
 
