@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 
 💬 Ask me about: JavaScript fundamentals, CSS (Flexbox, Grid, animations, preprocessors), frontend project building, and career guidance for web dev.
 
-📫 How to reach me: www.linkedin.com/in/shahrampk
+📫 How to reach me: 
+ | [LinkedIn](www.linkedin.com/in/shahrampk)
  | [GitHub](https://github.com/shahrampk)
  | Email: mshahram574@gmail.com
 
