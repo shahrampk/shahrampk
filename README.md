@@ -8,15 +8,13 @@ Welcome to my GitHub profile! I’m passionate about building modern, responsive
 
 ## 🧠 About Me
 
-* 🌱 I’m currently learning: **TypeScript & React**
+* 🌱 I’m currently learning: **Next Js**
 * 👯 I’m looking to collaborate on:
-  **Web development projects**, especially using JavaScript, Tailwind CSS, CSS3, and HTML5
+  **Web development projects**, especially using Typescript & React JavaScript, Tailwind CSS, CSS3, and HTML5
 * 🤔 I’m looking for help with:
   **Best practices for building scalable frontend applications (React-focused)**
-* 💬 Ask me about:
-  JavaScript fundamentals, CSS (Flexbox, Grid, animations, preprocessors), frontend project building, and web dev career guidance
 * ⚡ Fun fact:
-  I enjoy exploring emerging web technologies, crafting custom UI components, and building seamless user experiences. I also love refining my personal projects (like my portfolio) and experimenting with new ideas to stay creative and sharp.
+  I enjoy exploring emerging web technologies, crafting custom UI components, and building seamless user experiences. I also love refining my personal projects and experimenting with new ideas to stay creative and sharp.
 
 ---
 
@@ -25,11 +23,12 @@ Welcome to my GitHub profile! I’m passionate about building modern, responsive
 ### 👨‍💻 Languages
 
 * JavaScript (ES6+)
-* TypeScript (Learning)
+* Typescript
 
 ### 🌐 Frontend
 
-* React.js (Learning)
+* Next Js
+* React js
 * HTML5
 * CSS3
 * Tailwind CSS
@@ -54,7 +53,7 @@ Welcome to my GitHub profile! I’m passionate about building modern, responsive
 
 ## 🎯 Current Focus
 
-* Mastering **TypeScript + React**
+* Mastering **Advance Topics of Next Js**
 * Writing clean, scalable, and maintainable code
 * Improving UI/UX design skills
 * Building strong real-world projects
@@ -63,8 +62,8 @@ Welcome to my GitHub profile! I’m passionate about building modern, responsive
 
 ## 🌍 Connect With Me
 
-* 💼 LinkedIn: *Add your link here*
-* 💻 GitHub: *Add your profile link*
+* 💼 LinkedIn: www.linkedin.com/in/shahrampk
+* 💻 Portfolio: https://portfolio-shahram.netlify.app
 * 📧 Email: **[mshahram574@gmail.com](mailto:mshahram574@gmail.com)**
 
 ---
