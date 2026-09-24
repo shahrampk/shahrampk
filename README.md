@@ -89,7 +89,7 @@ A full-stack MERN app where users upload a resume and get AI-generated feedback 
 ## 🌍 Connect With Me
 
 * 💼 LinkedIn: [www.linkedin.com/in/shahrampk](https://www.linkedin.com/in/shahrampk)
-* 💻 Portfolio: https://portfolio-shahram.netlify.app
+* 💻 Portfolio: https://portfolio-shahrampk.vercel.app/
 * 📧 Email: **[mshahram574@gmail.com](mailto:mshahram574@gmail.com)**
 
 ---
